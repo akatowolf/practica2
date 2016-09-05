@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CALCULATOR</string>
+    <string name="suma">ADITTION</string>
+    <string name="resta">SUBTRACTION</string>
+    <string name="multiplicacion">MULTIPLICATION</string>
+    <string name="division">DIVISION</string>
+    <string name="calcular">SOLVE</string>
+    <string name="num2">NUMBER 2</string>
+    <string name="num1">NUMBER 1</string>
+    <string name="resultado">RESULT</string>
+
+    
+</resources>
