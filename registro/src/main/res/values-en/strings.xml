@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Register</string>
+    <string name="Loggin">Loggin</string>
+    <string name="Password">Password</string>
+    <string name="rPassword">Repeat password</string>
+    <string name="Mail">Mail</string>
+    <string name="femenino">Female</string>
+    <string name="masculino">Male</string>
+    <string name="datepicker">Birthday</string>
+    <string name="spinner">Country</string>
+    <string name="hobbie">Hobbies</string>
+    <string name="aceptar">Aceptt</string>
+    <string name="datos">Show</string>
+    <string name="futbol">soccer</string>
+    <string name="videojuegos">Video games</string>
+    <string name="musica">Music</string>
+    <string name="a">Year: </string>
+    <string name="m">Month: </string>
+    <string name="d">Day: </string>
+    <string name="arte">Art</string>
+    <string name="pais">Nacionality</string>
+
+    <string-array name="paises">
+        <item name="colombia">COLOMBIA</item>
+        <item name="japon">JAPAN</item>
+        <item name="cananada">GERMANY</item>
+
+    </string-array>
+</resources>

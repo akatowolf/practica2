@@ -1,1 +1,1 @@
-include ':app', ':calculadora', ':areas'
+include ':app', ':calculadora', ':area', ':registro'

@@ -10,16 +10,18 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/areas" />
+            <option value="$PROJECT_DIR$/area" />
             <option value="$PROJECT_DIR$/calculadora" />
+            <option value="$PROJECT_DIR$/registro" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/areas" />
+            <option value="$PROJECT_DIR$/area" />
             <option value="$PROJECT_DIR$/calculadora" />
+            <option value="$PROJECT_DIR$/registro" />
           </set>
         </option>
       </GradleProjectSettings>
